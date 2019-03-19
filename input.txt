@@ -1,0 +1,40 @@
+ias102,ias101,3
+math201,math102,3
+coe202,phys102,3
+ics201,ics102,3
+ics253,ics102,3
+swe205,ics102,3
+ias201, ,3
+ics233,coe202-ics201,3
+swe215,swe205,3
+swe312,swe205,3
+swe316,swe215-ics202,3
+swe363, ,3
+ias322,ias212,3
+ics343,ics201,3
+swe326,swe215-swe312,3
+swe387, ,3
+math335, ,3
+coe420, ,3
+ics353,ics202-ics253,3
+swe417,swe316-swe387,3
+ias301,ias201,3
+ics431,ics233,3
+swe490, ,3
+swe418,swe326-swe417,3
+swe491, ,3
+abc123, ,3
+stat319,math201,3
+ias212,ias201,3
+ics324,ics202,3
+math101, ,3
+phys101, ,3
+math102,math101,3
+phys102,phys101,3
+pe102,pe101,3
+pe101, ,3
+engl101, ,3
+ics202,ics201,3
+ics254,ics253,3
+ias101, ,3
+ics102, ,3
